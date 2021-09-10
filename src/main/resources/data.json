@@ -1,0 +1,20 @@
+{
+    "id": "e35a7068-a2e5-4739-b815-e19069e782de",
+    "firstName": "name",
+    "secondName": "secondName",
+    "middleName": "middleName",
+    "age": 123,
+    "isPromotionsAllowed": true,
+    "birthDate": "01.01.2000",
+    "registrationTimestamp": "2021-08-23T00:00:00Z",
+    "contacts": [
+        {
+            "type": "phone",
+            "value": "+79998887766"
+        },
+        {
+            "type": "email",
+            "value": "test@test.test"
+        }
+    ]
+}
