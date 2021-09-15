@@ -1,0 +1,34 @@
+<users>
+    <user id="1">
+        <name>sgfg</name>
+        <family_name>dggbdg</family_name>
+        <age>2343</age>
+        <sex>men</sex>
+        <contacts>
+            <contact default="true">
+                <type>phone</type>
+                <value>+79999999999</value>
+            </contact>
+            <contact default="false">
+                <type>email</type>
+                <value>aff@aff.af</value>
+            </contact>
+        </contacts>
+    </user>
+    <user id="2">
+        <name>234324</name>
+        <family_name>dfbdfb</family_name>
+        <age>345346</age>
+        <sex>female</sex>
+        <contacts>
+            <contact default="false">
+                <type>phone</type>
+                <value>+79999999999</value>
+            </contact>
+            <contact default="true">
+                <type>email</type>
+                <value>aff1@aff.af</value>
+            </contact>
+        </contacts>
+    </user>
+</users>
